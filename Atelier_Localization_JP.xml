@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Atelier_Localization_JP -->
+<!-- Author: Darrell -->
+<!-- DateCreated: 6/15/2020 12:50:17 PM -->
+<GameData>
+	<LocalizedText>
+	<!--Civilization-->
+		<Row Tag="LOC_CIVILIZATION_SAILOR_ATLEER_NAME" Language="ja_JP">
+			<Text>錬金術士のアトリエ</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SAILOR_ATLEER_DESCRIPTION" Language="ja_JP">
+			<Text>錬金術士のアトリエ</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SAILOR_ATLEER_ADJECTIVE" Language="ja_JP">
+			<Text>錬金術士のアトリエ</Text>
+		</Row>
+		<!--UA-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SAILOR_ATLEER_UA_NAME" Language="ja_JP">
+			<Text>錬成調合</Text>
+		</Row>
+		<!--R&F, Vanilla-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SAILOR_ATLEER_UA_DESCRIPTION" Language="ja_JP">
+			<Text>[ICON_TechBoosted] ひらめきか [ICON_CivicBoosted] 天啓が発生したとき、領土内で資源がランダムに生成されることがある。生産に戦略資源が必要な軍事ユニットは、戦略資源を必要としない軍事ユニットに対して戦闘力にボーナスを得る。</Text>
+		</Row>
+		<!--Gathering Storm-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SAILOR_ATLEER_UA_XP2_DESCRIPTION" Language="ja_JP">
+			<Text>[ICON_TechBoosted] ひらめきか [ICON_CivicBoosted] 天啓が発生したとき、領土内で資源がランダムに生成されることがある。戦略資源を改善したとき、その改善施設が供給する5ターン分の戦略資源を即座に獲得する。</Text>
+		</Row>
+
+		<!--UU-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_SAILOR_ATLEER_UU_NAME" Language="ja_JP">
+			<Text>ぷに</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_SAILOR_ATLEER_UU_DESCRIPTION" Language="ja_JP">
+			<Text>斥候に取ってかわる、錬金術士のアトリエ固有の太古のユニット。斥候に比べコストが低く、丘陵で移動を開始したときは [ICON_Movement] 移動力5。</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SAILOR_ATLEER_UU_NAME" Language="ja_JP">
+			<Text>ぷに</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SAILOR_ATLEER_UU_DESCRIPTION" Language="ja_JP">
+			<Text>斥候に取ってかわる、錬金術士のアトリエ固有の太古のユニット。斥候に比べコストが低く、丘陵で移動を開始したときは [ICON_Movement] 移動力5。</Text>
+		</Row>
+
+		<!--UI-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_SAILOR_ATLEER_UI_NAME" Language="ja_JP">
+			<Text>錬金釜</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_SAILOR_ATLEER_UI_DESCRIPTION" Language="ja_JP">
+			<Text>労働者が錬金釜を建設できるようになる。社会制度『職人技』で解禁される。1都市圏に1つしか建設できない。[ICON_Housing] 住宅+1、隣接する戦略資源1つにつき [ICON_Science] 科学力+1と [ICON_Gold] ゴールド+2、隣接する高級資源1つにつき [ICON_Culture] 文化力+1と [ICON_Gold] ゴールド+2、隣接するボーナス資源1つにつき [ICON_Food] 食料+1と [ICON_Production] 生産力+1。『化学』の解除後は全出力が2倍になる。</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SAILOR_ATLEER_UI_NAME" Language="ja_JP">
+			<Text>錬金釜</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SAILOR_ATLEER_UI_DESCRIPTION" Language="ja_JP">
+			<Text>労働者が錬金釜を建設できるようになる。社会制度『職人技』で解禁される。1都市圏に1つしか建設できない。[ICON_Housing] 住宅+1、隣接する戦略資源1つにつき [ICON_Science] 科学力+1と [ICON_Gold] ゴールド+2、隣接する高級資源1つにつき [ICON_Culture] 文化力+1と [ICON_Gold] ゴールド+2、隣接するボーナス資源1つにつき [ICON_Food] 食料+1と [ICON_Production] 生産力+1。『化学』の解除後は全出力が2倍になる。</Text>
+		</Row>
+		
+	<!--Ayesha-->
+		<Row Tag="LOC_LEADER_SAILOR_AYESHA_NAME" Language="ja_JP">
+			<Text>アーシャ</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SAILOR_AYESHA_UA_NAME" Language="ja_JP">
+			<Text>黄昏の大地の錬金術士</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SAILOR_AYESHA_UA_DESCRIPTION" Language="ja_JP">
+			<Text>全てのユニットは、資源や [ICON_RESOURCE_ANTIQUITY_SITE] 古代遺跡のあるタイルの上でHPが10多く [ICON_DAMAGED] 回復する。秘宝を発掘すると、[ICON_RESOURCE_ANTIQUITY_SITE] 古代遺跡の存在したタイルに要塞が即座に建設され、全てのユニットが経験値を得る。いずれかの文明が『博物学』を解除すると、アーシャも [ICON_RESOURCE_ANTIQUITY_SITE] 古代遺跡が可視化される。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SAILOR_AYESHA_UA_XP_DESCRIPTION" Language="ja_JP">
+			<Text>全てのユニットは、資源や [ICON_RESOURCE_ANTIQUITY_SITE] 古代遺跡のあるタイルの上でHPが10多く [ICON_DAMAGED] 回復する。秘宝を発掘すると、[ICON_RESOURCE_ANTIQUITY_SITE] 古代遺跡の存在したタイルに要塞が即座に建設され、全てのユニットが経験値を得る。いずれかの文明が『博物学』を解除すると、アーシャも [ICON_RESOURCE_ANTIQUITY_SITE] 古代遺跡が可視化される。</Text>
+		</Row>
+		
+	<!--Ilmeria-->
+		<Row Tag="LOC_LEADER_SAILOR_ILMERIA_NAME" Language="ja_JP">
+			<Text>イルメリア</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_SAILOR_ILMERIA_ALT_NAME" Language="ja_JP">
+			<Text>イルメリア</Text>
+		</Row>
+
+		<!--UA-->
+		<Row Tag="LOC_TRAIT_LEADER_SAILOR_ILMERIA_UA_NAME" Language="ja_JP">
+			<Text>尊敬される師匠</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SAILOR_ILMERIA_UA_DESCRIPTION" Language="ja_JP">
+			<Text>[ICON_DISTRICT_CAMPUS] キャンパス・[ICON_DISTRICT_COMMERCIAL_HUB] 商業ハブ・[ICON_DISTRICT_INDUSTRIAL_ZONE] 工業地帯は固有改善『錬金釜』から隣接ボーナスを得る。これらの区域の建造物が『錬金釜』に隣接して建設されたとき、各種の [ICON_GREATPERSON] 偉人ポイントを即座に得る。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SAILOR_ILMERIA_UA_XP_DESCRIPTION" Language="ja_JP">
+			<Text>[ICON_DISTRICT_CAMPUS] キャンパス・[ICON_DISTRICT_COMMERCIAL_HUB] 商業ハブ・[ICON_DISTRICT_INDUSTRIAL_ZONE] 工業地帯は固有改善『錬金釜』から隣接ボーナスを得る。これらの区域の建造物が『錬金釜』に隣接して建設されたとき、各種の [ICON_GREATPERSON] 偉人ポイントを即座に得る。これらの区域が『錬金釜』からの隣接ボーナスを得ているとき、その都市で訓練された全てのユニットが戦闘で得る経験値+25%(この経験値ブーストは重複しない)。</Text>
+		</Row>
+
+		<!--UA ALT-->
+		<Row Tag="LOC_TRAIT_LEADER_SAILOR_ILMERIA_ALT_UA_NAME" Language="ja_JP">
+			<Text>尊敬される師匠</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SAILOR_ILMERIA_ALT_UA_DESCRIPTION" Language="ja_JP">
+			<Text>[ICON_DISTRICT_CAMPUS] キャンパス・[ICON_DISTRICT_COMMERCIAL_HUB] 商業ハブ・[ICON_DISTRICT_INDUSTRIAL_ZONE] 工業地帯は固有改善『錬金釜』から隣接ボーナスを得る。これらの区域の建造物が『錬金釜』に隣接して建設されたとき、各種の [ICON_GREATPERSON] 偉人ポイントを即座に得る。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SAILOR_ILMERIA_ALT_UA_XP_DESCRIPTION" Language="ja_JP">
+			<Text>[ICON_DISTRICT_CAMPUS] キャンパス・[ICON_DISTRICT_COMMERCIAL_HUB] 商業ハブ・[ICON_DISTRICT_INDUSTRIAL_ZONE] 工業地帯は固有改善『錬金釜』から隣接ボーナスを得る。これらの区域の建造物が『錬金釜』に隣接して建設されたとき、各種の [ICON_GREATPERSON] 偉人ポイントを即座に得る。これらの区域が『錬金釜』からの隣接ボーナスを得ているとき、その都市で訓練された全てのユニットが戦闘で得る経験値+25%(この経験値ブーストは重複しない)。</Text>
+		</Row>
+	<!--Lydie and Suelle-->
+		<Row Tag="LOC_LEADER_SAILOR_LNS_NAME" Language="ja_JP">
+			<Text>リディーとスール</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SAILOR_LNS_UA_NAME" Language="ja_JP">
+			<Text>不思議な絵画</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SAILOR_LNS_UA_DESCRIPTION" Language="ja_JP">
+			<Text>宮殿と政府複合施設の建造物において、追加の[ICON_GreatWork_Portrait][ICON_GreatWork_Landscape][ICON_GreatWork_Religious][ICON_GreatWork_Sculpture]傑作（芸術）スロットを得る。固有改善『錬金釜』が3つ以上の資源に隣接しているとき、条件を満たした『錬金釜』1つにつき [ICON_GreatArtist] 大芸術家ポイントの産出量に+1のボーナス。[ICON_GreatArtist] 大芸術家を獲得するたび、[ICON_CivicBoosted] 天啓が発生する。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SAILOR_LNS_UA_XP_DESCRIPTION" Language="ja_JP">
+			<Text>宮殿と政府複合施設の建造物において、追加の[ICON_GreatWork_Portrait][ICON_GreatWork_Landscape][ICON_GreatWork_Religious][ICON_GreatWork_Sculpture]傑作（芸術）スロットを得る。固有改善『錬金釜』が3つ以上の資源に隣接しているとき、条件を満たした『錬金釜』1つにつき [ICON_GreatArtist] 大芸術家ポイントの産出量に+1のボーナス。[ICON_GreatArtist] 大芸術家を獲得するたび、[ICON_CivicBoosted] 天啓が発生する。</Text>
+		</Row>
+	<!--Totori-->
+		<Row Tag="LOC_LEADER_SAILOR_TOTORI_NAME" Language="ja_JP">
+			<Text>トトリ</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SAILOR_TOTORI_UA_NAME" Language="ja_JP">
+			<Text>アーランドの旅人</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SAILOR_TOTORI_UA_DESCRIPTION" Language="ja_JP">
+			<Text>帆走術と造船の技術を得た状態でゲームを開始する。自文明の首都が存在しない大陸にユニットが初めて進入するたび、[ICON_TechBoosted] ひらめきが発生する。沿岸都市を建設するか占領するたび、海洋ユニットを1つ無償で獲得する。</Text>
+		</Row>
+	</LocalizedText>
+</GameData>
